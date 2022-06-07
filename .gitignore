@@ -1,0 +1,3 @@
+#Ignore vendor image MIUI V12.5.16.RKPXMCN
+vendor/China/vendor.img
+vendor/Global/vendor.img
